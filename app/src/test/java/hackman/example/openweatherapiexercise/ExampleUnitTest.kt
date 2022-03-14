@@ -1,4 +1,4 @@
-package com.example.openweatherapiexercise
+package hackman.example.openweatherapiexercise
 
 import org.junit.Test
 

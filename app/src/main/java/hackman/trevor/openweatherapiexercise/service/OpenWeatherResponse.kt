@@ -1,4 +1,4 @@
-package com.example.openweatherapiexercise.service
+package hackman.trevor.openweatherapiexercise.service
 
 typealias TODO = Any
 

@@ -1,8 +1,8 @@
-package com.example.openweatherapiexercise.searchresults
+package hackman.trevor.openweatherapiexercise.searchresults
 
 import androidx.lifecycle.ViewModel
-import com.example.openweatherapiexercise.search.SearchData
-import com.example.openweatherapiexercise.service.Forecast
+import hackman.trevor.openweatherapiexercise.search.SearchData
+import hackman.trevor.openweatherapiexercise.service.Forecast
 
 class SearchResultsViewModel : ViewModel() {
 

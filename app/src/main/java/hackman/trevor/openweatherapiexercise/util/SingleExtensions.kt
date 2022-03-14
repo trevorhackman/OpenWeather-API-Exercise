@@ -1,4 +1,4 @@
-package com.example.openweatherapiexercise.util
+package hackman.trevor.openweatherapiexercise.util
 
 import android.util.Log
 import com.google.gson.Gson

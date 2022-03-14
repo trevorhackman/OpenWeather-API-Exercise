@@ -1,8 +1,9 @@
-package com.example.openweatherapiexercise
+package hackman.trevor.openweatherapiexercise
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.openweatherapiexercise.search.SearchFragment
+import hackman.trevor.openweatherapiexercise.R
+import hackman.trevor.openweatherapiexercise.search.SearchFragment
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.example.openweatherapiexercise.service
+package hackman.trevor.openweatherapiexercise.service
 
 import io.reactivex.Single
 import retrofit2.Response

@@ -1,4 +1,4 @@
-package com.example.openweatherapiexercise.service
+package hackman.trevor.openweatherapiexercise.service
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

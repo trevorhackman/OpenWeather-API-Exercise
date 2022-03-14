@@ -1,12 +1,14 @@
-package com.example.openweatherapiexercise.search
+package hackman.trevor.openweatherapiexercise.search
 
 import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.openweatherapiexercise.service.*
-import com.example.openweatherapiexercise.util.onFailure
-import com.example.openweatherapiexercise.util.onSuccess
+import hackman.trevor.openweatherapiexercise.util.onFailure
+import hackman.trevor.openweatherapiexercise.util.onSuccess
+import hackman.trevor.openweatherapiexercise.service.SearchFailure
+import hackman.trevor.openweatherapiexercise.service.SearchResult
+import hackman.trevor.openweatherapiexercise.service.ServiceFactory
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 

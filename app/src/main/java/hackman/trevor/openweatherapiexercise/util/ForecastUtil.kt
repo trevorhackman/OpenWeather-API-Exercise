@@ -1,6 +1,6 @@
-package com.example.openweatherapiexercise.util
+package hackman.trevor.openweatherapiexercise.util
 
-import com.example.openweatherapiexercise.service.Forecast
+import hackman.trevor.openweatherapiexercise.service.Forecast
 import java.text.SimpleDateFormat
 import java.util.*
 import java.util.concurrent.TimeUnit

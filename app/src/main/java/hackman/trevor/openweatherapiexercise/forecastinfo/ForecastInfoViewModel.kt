@@ -1,11 +1,11 @@
-package com.example.openweatherapiexercise.forecastinfo
+package hackman.trevor.openweatherapiexercise.forecastinfo
 
 import androidx.lifecycle.ViewModel
-import com.example.openweatherapiexercise.search.SearchData
-import com.example.openweatherapiexercise.searchresults.SearchResultsData
-import com.example.openweatherapiexercise.util.formatFeelsLike
-import com.example.openweatherapiexercise.util.formatTemperature
-import com.example.openweatherapiexercise.util.formatTime
+import hackman.trevor.openweatherapiexercise.search.SearchData
+import hackman.trevor.openweatherapiexercise.searchresults.SearchResultsData
+import hackman.trevor.openweatherapiexercise.util.formatFeelsLike
+import hackman.trevor.openweatherapiexercise.util.formatTemperature
+import hackman.trevor.openweatherapiexercise.util.formatTime
 
 class ForecastInfoViewModel : ViewModel() {
 

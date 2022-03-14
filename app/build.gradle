@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.openweatherapiexercise"
+        applicationId "hackman.trevor.openweatherapiexercise"
         minSdk 26
         targetSdk 31
         versionCode 1

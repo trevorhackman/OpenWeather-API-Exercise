@@ -1,13 +1,13 @@
-package com.example.openweatherapiexercise.searchresults
+package hackman.trevor.openweatherapiexercise.searchresults
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.openweatherapiexercise.R
-import com.example.openweatherapiexercise.databinding.ForecastItemBinding
-import com.example.openweatherapiexercise.service.Forecast
-import com.example.openweatherapiexercise.util.formatTemperature
-import com.example.openweatherapiexercise.util.formatTime
+import hackman.trevor.openweatherapiexercise.R
+import hackman.trevor.openweatherapiexercise.databinding.ForecastItemBinding
+import hackman.trevor.openweatherapiexercise.service.Forecast
+import hackman.trevor.openweatherapiexercise.util.formatTemperature
+import hackman.trevor.openweatherapiexercise.util.formatTime
 
 class ForecastListAdapter(
     private val forecasts: List<Forecast>,

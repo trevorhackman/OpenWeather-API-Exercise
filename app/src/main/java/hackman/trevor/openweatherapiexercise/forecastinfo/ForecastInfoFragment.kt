@@ -1,4 +1,4 @@
-package com.example.openweatherapiexercise.forecastinfo
+package hackman.trevor.openweatherapiexercise.forecastinfo
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import com.example.openweatherapiexercise.R
-import com.example.openweatherapiexercise.databinding.ForecastInfoFragmentBinding
+import hackman.trevor.openweatherapiexercise.R
+import hackman.trevor.openweatherapiexercise.databinding.ForecastInfoFragmentBinding
 
 class ForecastInfoFragment : Fragment() {
 

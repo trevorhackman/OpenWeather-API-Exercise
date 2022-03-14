@@ -1,4 +1,4 @@
-package com.example.openweatherapiexercise.searchresults
+package hackman.trevor.openweatherapiexercise.searchresults
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -9,10 +9,10 @@ import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.openweatherapiexercise.R
-import com.example.openweatherapiexercise.databinding.SearchResultsFragmentBinding
-import com.example.openweatherapiexercise.forecastinfo.ForecastInfoFragment
-import com.example.openweatherapiexercise.service.Forecast
+import hackman.trevor.openweatherapiexercise.R
+import hackman.trevor.openweatherapiexercise.databinding.SearchResultsFragmentBinding
+import hackman.trevor.openweatherapiexercise.forecastinfo.ForecastInfoFragment
+import hackman.trevor.openweatherapiexercise.service.Forecast
 
 class SearchResultsFragment : Fragment() {
 
