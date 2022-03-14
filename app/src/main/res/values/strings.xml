@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OpenWeather API Exercise</string>
+
+    <string name="back_button">Back</string>
+
+    <string name="search_hint_city_name">City Name</string>
+    <string name="search_button">Lookup</string>
+
+    <string name="temp_colon">Temp: %s</string>
+    <string name="feels_like_colon">Feels Like: %s</string>
+
+</resources>
